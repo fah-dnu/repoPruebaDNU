@@ -1,1 +1,2 @@
-Archivo que sigue la rama de master. 
+Archivo que sigue la rama de master.
+Nueva línea.
